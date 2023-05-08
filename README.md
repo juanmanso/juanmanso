@@ -4,7 +4,7 @@ Hey there 👋
 RN Dev, ML hobbyst & crypto degen
 ---------------------------------
 
-📚 ⚡️ 🧠 I'm finishing my studies in Electronics Engineering @ UBA, specializing myself in Signal Processing and Machine Learning.
+📚 ⚡️ 🧠 I did my studies in Electronics Engineering @ UBA, specializing myself in Signal Processing and Machine Learning.
 
 👔 🐍 📱 Professionally, I've started with Python doing some backend freelancing but switching to React and React Native when going full-time.
 
