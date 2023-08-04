@@ -1,6 +1,7 @@
 Hey there 👋
 ===========================
 
+
 RN Dev, ML hobbyst & crypto degen
 ---------------------------------
 
@@ -10,12 +11,15 @@ RN Dev, ML hobbyst & crypto degen
 
 ⛩️ ⛓️ 🪙 Now, I'm working on a kick-ass european-based crypto services company called Keyko doing my work as React Native Dev.
 
-⌛️ 🏃 🪠 🎸 In my free time, I'm traveling with my partner around Europe. I like working on optimizing things, specially through automation and pipelines (currently working on scripts and git flows, super fun stuff). While I'm not traveling, I like to play the guitar and join my friends on a jam.
+⌛️ 🏃 🪠 🎸 In my free time, I'm traveling with my partner around Europe. I like working on optimizing things, specially through automation and pipelines. While I'm not traveling, I like to play the guitar and join my friends on a jam.
+
+⏱️ 🛠️ Occassionally taking short-term scoped freelance projects! Feel free to reach out if you need a hand with something.
+
 
 * 🌍  I'm based in Madrid, Spain 🇪🇸
 * ✉️  You can contact me at [juanmanso@gmail.com](mailto:juanmanso@gmail.com)
-* 🚀  I'm currently working on [Keyko ⛩️](http://keyko.io)
-* 🧠  I'm learning GitHub Actions, CI/CD and improving my Machine Learning skills 💪
+* 🚀  I'm currently working at [Keyko ⛩️](http://keyko.io)
+* 🧠  I'm learning Web3 &Eth libraries while delving deeper into TS and React Native 💪
 * 🤝  I'm open to collaborating on React Native, Crypto and Signal and Data processing applications 😬
 * ⚡  I'm also a big movie fan, you can find my ratings and reviews on [letterboxd](https://letterboxd.com/juanmanso)
 
@@ -66,6 +70,9 @@ RN Dev, ML hobbyst & crypto degen
 <a href="http://www.medium.com/@juanmanso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+<!-- Profile View Count -->
+<img src="https://komarev.com/ghpvc/?username=juanmanso&color=0e75b6&style=flat" alt="view-count" />
 
 <b>My GitHub Stats</b>
 
