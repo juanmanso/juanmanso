@@ -8,13 +8,13 @@ RN Dev, ML hobbyst & crypto degen
 
 👔 🐍 📱 Professionally, I've started with Python doing some backend freelancing but switching to React and React Native when going full-time.
 
-<!-- 🍋 🏦 🪙 Now, I'm working on a kick-ass argentinian startup crypto bank called Lemon Cash doing my work as react native dev for Crypto products. -->
-<!--  -->
+⛩️ ⛓️ 🪙 Now, I'm working on a kick-ass european-based crypto services company called Keyko doing my work as React Native Dev.
+
 ⌛️ 🏃 🪠 🎸 In my free time, I'm traveling with my partner around Europe. I like working on optimizing things, specially through automation and pipelines (currently working on scripts and git flows, super fun stuff). While I'm not traveling, I like to play the guitar and join my friends on a jam.
 
 * 🌍  I'm based in Madrid, Spain 🇪🇸
 * ✉️  You can contact me at [juanmanso@gmail.com](mailto:juanmanso@gmail.com)
-<!-- * 🚀  I'm currently working on [Lemon Cash 🍋](http://lemon.me) -->
+* 🚀  I'm currently working on [Keyko ⛩️](http://keyko.io)
 * 🧠  I'm learning GitHub Actions, CI/CD and improving my Machine Learning skills 💪
 * 🤝  I'm open to collaborating on React Native, Crypto and Signal and Data processing applications 😬
 * ⚡  I'm also a big movie fan, you can find my ratings and reviews on [letterboxd](https://letterboxd.com/juanmanso)
