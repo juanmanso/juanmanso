@@ -19,7 +19,7 @@ RN Dev, ML hobbyst & crypto degen
 * 🌍  I'm based in Madrid, Spain 🇪🇸
 * ✉️  You can contact me at [juanmanso@gmail.com](mailto:juanmanso@gmail.com)
 * 🚀  I'm currently working at [Keyko ⛩️](http://keyko.io)
-* 🧠  I'm learning Web3 &Eth libraries while delving deeper into TS and React Native 💪
+* 🧠  I'm learning Web3 & Eth libraries while delving deeper into TS and React Native 💪
 * 🤝  I'm open to collaborating on React Native, Crypto and Signal and Data processing applications 😬
 * ⚡  I'm also a big movie fan, you can find my ratings and reviews on [letterboxd](https://letterboxd.com/juanmanso)
 
